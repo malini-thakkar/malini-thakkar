@@ -28,10 +28,3 @@ I am a passionate engineering student from **Mumbai, India**, currently studying
 <a href="https://linkedin.com/in/malini-thakkar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="malinithakkar" /></a>
 <a href="https://about.me/malinithakkar" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF6600?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=malini-thakkar&show_icons=true&theme=radical" alt="malinithakkar" />
-</p>
